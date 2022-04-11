@@ -1,7 +1,7 @@
 # pollen-graph
 
 全国市区町村ごとの花粉飛散数グラフ（1時間ごと/日ごと）  
-http://n85.s58.xrea.com/pollen/index.html
+http://n85.s58.xrea.com/pollen/
 
 株式会社ウェザーニュースのポールンロボで観測された下記のデータを利用しています  
 毎時10分ほど後に更新されるようです
