@@ -104,6 +104,8 @@ function draw_chart() {
         backgroundColor: 'rgb(255, 99, 132)',
         borderColor: 'rgb(255, 99, 132)',
         data: chartVal,
+        borderWidth: 2,
+        pointRadius: 2,
       },
     ],
   };
